@@ -1,0 +1,23 @@
+/* @font-face {
+  font-family: "Poiret One";
+  src: url("/public/assets/fonts/PoiretOne.ttf");
+} */
+
+body {
+  /* font-family: "Poiret One"; */
+  background-color: #000;
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #000;
+}
